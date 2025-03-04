@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Maybe...You cant find any useful code at here XD
+Because I only push crazy ideas and codes! lmao :P
 <!--
 **Sihyeonlove/Sihyeonlove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
